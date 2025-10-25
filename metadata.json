@@ -1,0 +1,7 @@
+{
+  "name": "AI Tourist Guide",
+  "description": "Enter a tourist destination to get a map and detailed information about the location, powered by Google Search and Google Maps grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
